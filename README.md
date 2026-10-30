@@ -11,6 +11,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://shivangvshukla.github.io/Flappy-Bird-Game/">
+    🎮 Play Live Demo
+  </a>
+</p>
 
 ## About the Project
 
